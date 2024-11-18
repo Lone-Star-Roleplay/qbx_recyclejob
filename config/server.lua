@@ -2,7 +2,7 @@ return {
     maxItemsReceived 	= 5,
     minItemReceivedQty 	= 2,
     maxItemReceivedQty 	= 6,
-    chanceItem 			= 'cryptostick',
+    chanceItem 			= 'weed_purplehaze_seed',
     luckyItem 			= 'rubber',
     itemTable = {
         [1] = 'metalscrap',
